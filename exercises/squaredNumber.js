@@ -1,4 +1,4 @@
-// Lesson #1 
+// Lesson #1
 function square(num) {
   return num * num;
 }
