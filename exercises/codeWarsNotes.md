@@ -20,4 +20,13 @@ stringEndsWith.js Notes:
 I need to make a function that returns true if the first string argument passed to it ends with the second argument.
 So I ended up making two functions to do this, one that used the endsWith method, and another that using
 substring and the length of both strings to tell the substring where to cut the og string to make the new one
-that I compared and returned a boolean
+that I compared and returned a boolean.
+
+
+binaryAddition.js:
+
+So I learned from this that I need to look back at my notes and pseudocode if I am confused to why something isn't
+working right
+I also learnd that usinsg .toString(2) gives you the binary of a number becasue it makes it a base of 2 in that case.
+They talk about it kinda in the docs if you remember that binary is base 2 then you will see that you can tell it the
+base of the radix (it can a any number between 2 and 36 (including those numbers of course)).
