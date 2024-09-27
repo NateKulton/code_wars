@@ -30,3 +30,11 @@ working right
 I also learnd that usinsg .toString(2) gives you the binary of a number becasue it makes it a base of 2 in that case.
 They talk about it kinda in the docs if you remember that binary is base 2 then you will see that you can tell it the
 base of the radix (it can a any number between 2 and 36 (including those numbers of course)).
+
+
+betterThanAverage.js:
+
+We are given an array that we need to add up all the number and compare it to our test score and it needs to return
+true of false if we are better than the average person in the class
+I think there is a method to recude the array to one number, but if I can't find it I'll just loop through it and
+then add all the numbers together. So I ended up just using the reduce method because I need more practice with it
