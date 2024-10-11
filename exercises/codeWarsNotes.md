@@ -75,3 +75,20 @@ sumTwoLowestPositiveIntegers.js Notes:
 So we are given an array with at least 4 positive numbers and float point numbers, and I need to add
 the two lowest numbers in the array together and return that value. Look to my psuedocode for seeing how I did this
 one.
+
+
+clockWork.js Notes:
+
+So I need to calculate the amount of time since midnight in milliseconds. They have aleady done some of the math for me.
+So I just need to add it to the function. This one was very tough for me, but I learned a lot from it. Like how I should
+have just converted them all into seconds and then added those all together and then converted that into miliseconds
+so in that way I wouldn't have to worry about if my math was right or wrong, and if I was checking the passed in
+arguments right or not. But my biggest take away was that sometimes problems feel to hard to do, but if you just take
+your time and look through and you can do it.
+
+
+cockroach.js Notes:
+
+On this lesson I need to convert kilometers per hour to centimeters per hour.
+So I did mostly well I just struggled a bit because of the endless noise from the deck guys so it made it hard to think
+deeply about the problem. But after some time I realized that I had the math backwards and that was my problem lol
