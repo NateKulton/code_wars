@@ -92,3 +92,13 @@ cockroach.js Notes:
 On this lesson I need to convert kilometers per hour to centimeters per hour.
 So I did mostly well I just struggled a bit because of the endless noise from the deck guys so it made it hard to think
 deeply about the problem. But after some time I realized that I had the math backwards and that was my problem lol
+
+
+trolls.js Notes:
+
+So for this one I need to remove all the vowels from the string. This would be simple with a if... else
+kinda thing, but I think imma try to use a regex. I should have rewrote my psuedocode as I was doing more coding to
+get a better mental model of what I was doing.
+
+
+// PUT FILE.js Notes
