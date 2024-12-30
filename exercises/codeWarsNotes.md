@@ -101,4 +101,13 @@ kinda thing, but I think imma try to use a regex. I should have rewrote my psued
 get a better mental model of what I was doing.
 
 
-// PUT FILE.js Notes
+reversList.js
+
+I did this one quickly, I just used the reverse method on the referenced array in the function and returned it.
+
+
+binaryArrayToNumber.js
+
+This code returns a number from the binary array version of that number. I had to look in my notes to remember how
+to do this. I was using the method to get the binary number from a number rather than the other way around. So this
+was a good reminder for how this all works.
