@@ -101,13 +101,25 @@ kinda thing, but I think imma try to use a regex. I should have rewrote my psued
 get a better mental model of what I was doing.
 
 
-reversList.js
+reversList.js Notes:
 
 I did this one quickly, I just used the reverse method on the referenced array in the function and returned it.
 
 
-binaryArrayToNumber.js
+binaryArrayToNumber.js Notes:
 
 This code returns a number from the binary array version of that number. I had to look in my notes to remember how
 to do this. I was using the method to get the binary number from a number rather than the other way around. So this
 was a good reminder for how this all works.
+
+
+sortArrayByStringLength.js Notes:
+
+I did this one the other day, and I don't remember my thought procces with it tbh.
+
+
+reverseWords.js Notes:
+
+I learned a lot from this. I learned how you can use map to put all elements in an array into their own arrays inside
+of the original array. I also learned how you can't reverse a string, you have to reverse the elements of an array to
+reverse a string than reconvert the array back into a string with join.
