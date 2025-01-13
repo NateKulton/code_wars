@@ -180,3 +180,10 @@ passed in array. Then I used an if statement to see if the sum of
 the array's numbers added together was even or odd and from that I
 returned even or odd respectively. You can also do this with just a for loop
 too. I commented how you would do it in the code under the og problem
+
+
+countByX.js Notes:
+
+So I just need to multiply x by 1 for the first iteration, then I increment 1 so it becomes 2, continue incrementing
+till that number matches n (because n is m stop point). I also have to push each of these multiples to the array z on
+each iteration.
