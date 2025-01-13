@@ -171,3 +171,12 @@ to use count instead of trying to use index to find you amount of sheep. Also, t
 problem reminded me that you need to put the if statement inside a wile loop above the
 incrementing of the index. Because if you don't you will not get the last iteration
 checked in the if statemnet because the index will have already met its end condition.
+
+
+sumOddOrEven.js Notes:
+
+I used reduce to add all the numbers together in the
+passed in array. Then I used an if statement to see if the sum of
+the array's numbers added together was even or odd and from that I
+returned even or odd respectively. You can also do this with just a for loop
+too. I commented how you would do it in the code under the og problem
