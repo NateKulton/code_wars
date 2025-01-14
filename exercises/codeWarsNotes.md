@@ -187,3 +187,9 @@ countByX.js Notes:
 So I just need to multiply x by 1 for the first iteration, then I increment 1 so it becomes 2, continue incrementing
 till that number matches n (because n is m stop point). I also have to push each of these multiples to the array z on
 each iteration.
+
+
+grasshopperSummation.js Notes:
+
+This problem wasn't too bad I just needed to use the parameter num as my end condition and to increment an index number
+that I started at 0 inside of a for loop and to add sum + index till the end condition is met.
