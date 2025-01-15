@@ -193,3 +193,10 @@ grasshopperSummation.js Notes:
 
 This problem wasn't too bad I just needed to use the parameter num as my end condition and to increment an index number
 that I started at 0 inside of a for loop and to add sum + index till the end condition is met.
+
+
+bmi.js Notes:
+
+The only think I was unsure about was `(height ** 2)` becasue, the math that codeWars gave me for this problem didn't
+use ( ). So I was unsure if I put them in the right place or not. But I did put them in the right place. You can do it
+without them too, but they make the code look better, and it makes it more understandable.
