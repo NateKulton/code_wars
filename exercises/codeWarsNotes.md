@@ -200,3 +200,23 @@ bmi.js Notes:
 The only think I was unsure about was `(height ** 2)` becasue, the math that codeWars gave me for this problem didn't
 use ( ). So I was unsure if I put them in the right place or not. But I did put them in the right place. You can do it
 without them too, but they make the code look better, and it makes it more understandable.
+
+
+shortestWordLength.js Notes:
+
+This one was pretty straight forward, I just split the string at each space and set a string to index 0
+and compared each string in the array to the string that I assigned to index 0 of the array and if
+the string in the array was shorter I reassign it in the if statement in the loop.
+
+
+filterList.js Notes:
+
+All I do for this is iterate through the array that is passed in the functions and the I wrote an if statement that
+checks if the element in the array is an integer or not. If it is I just a copy of it to the numArr, and at the end
+I return the numArr after the loop is done iterating
+
+
+regexValidatePIN.js Notes:
+
+I wrote two ways to do this code as you can see. My first one was the one on top, but I wanted to see how an if else
+statement version would work/look.
