@@ -220,3 +220,19 @@ regexValidatePIN.js Notes:
 
 I wrote two ways to do this code as you can see. My first one was the one on top, but I wanted to see how an if else
 statement version would work/look.
+
+
+basicMathematicalOperations.js Notes:
+
+This one was simple I just looked to see what the operation parameter was passed as an argument and then
+do the operation on value1 and value2 depending on what it was.
+
+
+fakeBinary.js Notes:
+
+So for this one I am passed a copy of the string number into the function. I then turn it into a string with .split
+and make it so there is one value for every character in the og string. I then declare and internalize the variable
+fakeBinaryArr to an empty array. I when iterate through the array I made from usinng split, and in the loop I check
+if the value at each index is less than 5, or equal to or higher than it. In the of it being lower I push '0' to
+fakeBinaryArr and it the case that it is higher or equal to 5 I push '1' to fakeBinaryArr. At the end of the function
+I call join on fakeBinaryArr and join all the characters together to create a string instead of an array.
