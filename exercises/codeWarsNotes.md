@@ -236,3 +236,9 @@ fakeBinaryArr to an empty array. I when iterate through the array I made from us
 if the value at each index is less than 5, or equal to or higher than it. In the of it being lower I push '0' to
 fakeBinaryArr and it the case that it is higher or equal to 5 I push '1' to fakeBinaryArr. At the end of the function
 I call join on fakeBinaryArr and join all the characters together to create a string instead of an array.
+
+
+sumMixedArray.js Notes:
+
+This one was simple, I copy the array and change all the values it be of number type. Then I iterate through the new
+array and added each value to my sum variable and then I return sum
