@@ -242,3 +242,10 @@ sumMixedArray.js Notes:
 
 This one was simple, I copy the array and change all the values it be of number type. Then I iterate through the new
 array and added each value to my sum variable and then I return sum
+
+
+isSquare.js Notes:
+
+For this problem I just got the square root of a number and checked to see if that value wasn't a whole number.
+In that case I return false, in the case that it is a whole number I return true. On my second way to do this problem
+I rewrote some of the code so that we are checking if it is a whole number rather and if it isn't a whole number.
