@@ -249,3 +249,11 @@ isSquare.js Notes:
 For this problem I just got the square root of a number and checked to see if that value wasn't a whole number.
 In that case I return false, in the case that it is a whole number I return true. On my second way to do this problem
 I rewrote some of the code so that we are checking if it is a whole number rather and if it isn't a whole number.
+
+
+uniqueInOrder.js Notes:
+
+So I needed to make a function to remove all the double values that stand right beside each other in either an array
+or string, and the return value needed to be an array. So I started by making a helper function to make sure that
+the values would always be arrays. Then from there I just needed to loop through the array and check if the values
+beside each other weren't equal. I push the values to an empty array I made to hold all the values we were looking for.
