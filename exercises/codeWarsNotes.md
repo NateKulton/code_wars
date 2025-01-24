@@ -257,3 +257,8 @@ So I needed to make a function to remove all the double values that stand right 
 or string, and the return value needed to be an array. So I started by making a helper function to make sure that
 the values would always be arrays. Then from there I just needed to loop through the array and check if the values
 beside each other weren't equal. I push the values to an empty array I made to hold all the values we were looking for.
+
+
+returningStrings.js Notes:
+
+I just wrote a template literal and put the parameter inside its placholder. Then I just returned that.
