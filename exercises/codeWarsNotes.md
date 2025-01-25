@@ -262,3 +262,12 @@ beside each other weren't equal. I push the values to an empty array I made to h
 returningStrings.js Notes:
 
 I just wrote a template literal and put the parameter inside its placholder. Then I just returned that.
+
+
+sumOfNumbers.js Notes:
+
+So this problem ended up being harder than it should have been, because the test cases were not good, becasue a or b
+should always be the low or high parameter number, and because I didn't write psuedocode for this one. But after I
+failed a few times I learned more about the test cases then I changed some stuff failed again then I finally realized
+a simple if statement would fix my problem I was having. The problem I was having was that the fact that both parameters
+could be the high or low number and that made it hard to make a loop with them like that. So yeah, that is what I did.
