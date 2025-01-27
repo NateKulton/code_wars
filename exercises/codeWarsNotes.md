@@ -271,3 +271,24 @@ should always be the low or high parameter number, and because I didn't write ps
 failed a few times I learned more about the test cases then I changed some stuff failed again then I finally realized
 a simple if statement would fix my problem I was having. The problem I was having was that the fact that both parameters
 could be the high or low number and that made it hard to make a loop with them like that. So yeah, that is what I did.
+
+
+countSheep.js Notes:
+
+This one just took a little bit of iterating and concatenation.
+
+
+squareNumberPlusSum.js Notes:
+
+I square each number in the array and then added them all together and then return that value.
+
+
+convertStringToNumber.js Notes:
+
+This is just a simple string to number converting. I did it with Number(string).
+
+
+terminalGame.js Notes:
+
+This one wasn't hard it, only took me longer than it could have becasue my old code on this one was way off, and I
+trusted it as a baseline.
