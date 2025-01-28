@@ -292,3 +292,11 @@ terminalGame.js Notes:
 
 This one wasn't hard it, only took me longer than it could have becasue my old code on this one was way off, and I
 trusted it as a baseline.
+
+
+openOrSenior.js Notes:
+
+Last time I tried to do this I didn't notice that the input was actually an array of arrays. This time I noticed it
+so I was about to do this problem after a little bit of rethinking about the problem. I also realized that the return
+value is supposed to be a list of strings. All I ended up doing was iterating through the data array that was passed to
+the function. Then I wrote a if statement to check if I should push 'Senior' or 'Open' to the membershipList array.
