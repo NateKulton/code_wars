@@ -300,3 +300,9 @@ Last time I tried to do this I didn't notice that the input was actually an arra
 so I was about to do this problem after a little bit of rethinking about the problem. I also realized that the return
 value is supposed to be a list of strings. All I ended up doing was iterating through the data array that was passed to
 the function. Then I wrote a if statement to check if I should push 'Senior' or 'Open' to the membershipList array.
+
+
+oppositesAttract.js Notes:
+
+For this one I check if one of the parameters is even and if one is odd. If there is two evens or two odds it will
+return false.
